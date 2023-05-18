@@ -1,6 +1,6 @@
-# <center>Busca por candidatos aprovados</center>
+# ^Busca por candidatos aprovados^
 ---
- #### <center> Projeto Individual - Módulo 2</center>
+^ Projeto Individual - Módulo 2^
 
 ### Evidência de entrega
 ---
