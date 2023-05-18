@@ -1,3 +1,4 @@
+print('\nOlá seja bem vindo à consulta de candidatos aprovados!')
 #Função para fazer a busca dos candidatos.
 def busca_candidato(candidatos, ver_ent, ver_tt, ver_tp, ver_ss):
     candidato_aprov = []
