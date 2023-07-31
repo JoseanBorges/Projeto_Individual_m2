@@ -1,6 +1,22 @@
-# <center>Busca por candidatos aprovados</center>
----
- #### <center> Projeto Individual - Módulo 2</center>
+<h1>
+    <p align='center'>
+         Busca por candidatos aprovados
+    </p>
+</h1>
+
+----------
+####
+<h1>
+    <p align='center'>        
+        Projeto Individual - Módulo 2
+    </p>
+</h1>
+
+<!-- <h1>
+    <p align="center">
+        Meu texto alinhado
+    </p>
+</h1> -->
 
 ### Evidência de entrega
 ---
